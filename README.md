@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I an Nikhil, an aspiring software and AI engineer focused on Python, machine learning, and building deployed applications.
+I am Nikhil, an aspiring software and AI engineer focused on Python, machine learning, and building deployed applications.
 
 **Currently working on**
 - End-to-end ML project with a deployed demo
