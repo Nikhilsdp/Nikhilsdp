@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# [Nikhil]
+# Nikhil
 
 Aspiring software and AI engineer focused on Python, machine learning, and building deployed applications.
 
