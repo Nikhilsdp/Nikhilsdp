@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**Nikhilsdp/Nikhilsdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# [Nikhil]
 
-Here are some ideas to get you started:
+Aspiring software and AI engineer focused on Python, machine learning, and building deployed applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently working on**
+- End-to-end ML project with a deployed demo
+- RAG application over custom documents, using FastAPI and Docker
+
+**Skills**
+Python · PyTorch · scikit-learn · SQL · FastAPI · Docker · Git · Data Structures & Algorithms
+
+**Goal**
+Software or ML engineering role on a team building AI systems.
+
+**Contact**
+[LinkedIn](https://www.linkedin.com/in/nikhilnaik369?utm_source=share_via&utm_content=profile&utm_medium=member_android) · [Email](mailto:naikn1225@gmail.com)
